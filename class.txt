@@ -1,0 +1,1 @@
+{'midCTC': 0, 'mixCTC': 1, 'noCTC': 2, 'upCTC': 3}
