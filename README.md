@@ -10,4 +10,5 @@ This is the Raabin-WBC dataset used in the paper [here](https://raabindata.com/f
 ![acc false](result/acc.jpg "acc")
 ## comparative results
 ![roc_false](result/compare_roc.jpg "roc")
-## Gradcam comparative
+## Gradcam comparative 
+![gradcam_false](result/gradcam_compare.jpg "gradcam")
