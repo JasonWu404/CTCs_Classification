@@ -23,7 +23,7 @@ This is the BreakHis dataset used in the paper [here](https://www.kaggle.com/dat
 4. Train
    
    python train.py
-5. Test
+## Test
    
    python test.py
 ## Gradcam comparative 
