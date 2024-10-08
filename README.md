@@ -11,12 +11,12 @@ This is the SIPaKMeD dataset used in the paper [here](https://www.cs.uoi.gr/~mar
 ## BreakHis database
 This is the BreakHis dataset used in the paper [here](https://www.kaggle.com/datasets/ambarish/breakhis?select=BreaKHis_v1 "BreakHis").
 ## Training
-1. Requirements
+###1. Requirements
    torch>=1.7.0；
    torchvision>=0.8.0;
-2. Dataset Preparation
+###2. Dataset Preparation
    Download the dataset provided above to the dataset folder and divide the training and testing sets proportionally.
-3. Train
+###3. Train
    python train.py
 ## Gradcam comparative 
 ![gradcam_false](result/gradcam_compare.jpg "gradcam")
