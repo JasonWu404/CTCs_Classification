@@ -14,6 +14,7 @@ This is the BreakHis dataset used in the paper [here](https://www.kaggle.com/dat
 1. Requirements
  
    torch>=1.7.0；
+   
    torchvision>=0.8.0;
 2. Dataset Preparation
  
@@ -21,8 +22,11 @@ This is the BreakHis dataset used in the paper [here](https://www.kaggle.com/dat
 3. Train
    
    python train.py
+4. Test
+   
+   python test.py
 ## Gradcam comparative 
 ![gradcam_false](result/gradcam_compare.jpg "gradcam")
 
 ## Contact
-Should you have any questions, please feel free to contact jtWu666@outlook.com
+Should you have any questions, please feel free to contact jtwu666@outlook.com
