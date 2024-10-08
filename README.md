@@ -19,10 +19,11 @@ This is the BreakHis dataset used in the paper [here](https://www.kaggle.com/dat
 2. Dataset Preparation
  
    Download the dataset provided above to the dataset folder and divide the training and testing sets proportionally.
-3. Train
+   it should be like: ./datasets/CTCDet/train and ./datasets/CTCDet/test.
+4. Train
    
    python train.py
-4. Test
+5. Test
    
    python test.py
 ## Gradcam comparative 
